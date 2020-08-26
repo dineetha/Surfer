@@ -12,6 +12,6 @@ The last build is still working in Windows 10 with .NET 4.6. Current features in
 
 - Ready-made snippets.
 - View in the default browser and other browsers. Add new browsers
-- HTML tag explorer for creating HTML elements quickly. Thank you.
+- HTML tag explorer for creating HTML elements quickly.
 
 Thank you.
