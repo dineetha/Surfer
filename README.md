@@ -5,7 +5,8 @@ The first version of this program was developed when I was learning Visual Basic
 
 - Solving compatibility issues
 - Remvoing hard-coded lines and adding suitable code to manage config data.
-- Refactoring code and adding new features.
+- Refactoring code
+- Adding new features.
 
 The last build is still working in Windows 10 with .NET 4.6. Current features include
 
